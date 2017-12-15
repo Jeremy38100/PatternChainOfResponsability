@@ -1,10 +1,6 @@
-# PatternChainOfResponsibility
+# Univerity Project - Design Pattern - Chain of responsibility
 
-## Univerity Project - Design Pattern
-
-### Miage Bartender
-
-#### Context
+## Context
 Coffee machines at home is commonplace in 2017, in some clicks you can drink your favourite coffee without any effort. 
 That's why, the startup *MiageConcept* is proud to announced their new product the **Miage Bartender**.
 
@@ -15,7 +11,7 @@ After refill raw product in the machine, the user can select a cocktail and the 
 **Miage Bartender** takes care of its users because it includes an alcohol sensor. 
 In fact before using this machine, the user can blow into the sensor and the machine will inform him about his blood alcohol level and then purpose cocktails adapted to the situation.
 
-#### Technical aspect - Chain of responsibility
+## Technical aspect - Chain of responsibility
 Here we imagine engineers in *MiageConcept* designed the machine with 3 main raw product distributor :
 - One for Soft drinks (No alcohol)
 - One for Medium drinks (Low/Medium alcohol level)
@@ -24,7 +20,7 @@ Here we imagine engineers in *MiageConcept* designed the machine with 3 main raw
 
 Software engineers decided to use the Chain of responsibility pattern to implement the distribution of alcohol process.
 
-#### Source Code
+## Source Code
 
 Here is a prototype of the source code of the machine.
 - Visual interface is replace by the console interaction
