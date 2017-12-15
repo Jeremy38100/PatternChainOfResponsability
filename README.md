@@ -23,5 +23,5 @@ Software engineers decided to use the Chain of responsibility pattern to impleme
 ## Source Code
 
 Here is a prototype of the source code of the machine.
-- Visual interface is replace by the console interaction
-- Alcohol test is replace by a random value between 0 and 2g/L
+- Visual interface is replaced by the console interaction
+- Alcohol test is replaced by a random value between 0 and 2g/L
