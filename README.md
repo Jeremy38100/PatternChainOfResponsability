@@ -1,4 +1,4 @@
-# Univerity Project - Design Pattern - Chain of responsibility
+# University Project - Design Pattern - Chain of responsibility
 
 ## Context
 Coffee machines at home is commonplace in 2017, in some clicks you can drink your favourite coffee without any effort. 
